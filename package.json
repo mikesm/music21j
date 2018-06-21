@@ -47,7 +47,7 @@
     "npm-check-updates": "^2.12.1",
     "qunit": "^0.9.1",
     "rollup": "^0.34.13",
-    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-babel": "^2.7.1",
     "uglify": "^0.1.5",
     "update": "^0.7.4",
     "webpack": "^2.7.0"
